@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": "1791453253176xf1i5d",
+      "name": "Aditi Gaikwad",
+      "email": "aditigaikwad1402@gmail.com"
+    },
+    {
+      "id": "1791453271686qc05ki",
+      "name": "Kushal",
+      "email": "kushalgaikwad024@gmail.com"
+    },
+    {
+      "id": "1791453289780bz99mf",
+      "name": "YOYO",
+      "email": "yoyo@gmail.com"
+    },
+    {
+      "id": "1791454172202rg3y7r8dyt",
+      "name": "Aditi",
+      "email": "aditigaikwad@gmail.com"
+    }
+  ],
+  "groups": [
+    {
+      "id": "it-a",
+      "name": "IT-A",
+      "email": "ita@college.local",
+      "members": [
+        "aditigaikwad1402@gmail.com",
+        "kushalgaikwad024@gmail.com"
+      ]
+    },
+    {
+      "id": "it-b",
+      "name": "IT-B",
+      "email": "itb@college.local",
+      "members": [
+        "yoyo@gmail.com"
+      ]
+    },
+    {
+      "id": "it-c",
+      "name": "IT-C",
+      "email": "itc@college.local",
+      "members": []
+    },
+    {
+      "id": "all-students",
+      "name": "All Students",
+      "email": "students@college.local",
+      "members": [
+        "aditigaikwad1402@gmail.com",
+        "kushalgaikwad024@gmail.com",
+        "yoyo@gmail.com"
+      ]
+    }
+  ],
+  "emails": [
+    {
+      "id": "1791453934308gg35i49s3s5",
+      "senderName": "Aditi",
+      "senderEmail": "aditigaikwad1402@gmail.com",
+      "receiverEmail": "kushalgaikwad024@gmail.com",
+      "subject": "wow",
+      "message": "hiiii",
+      "opportunityType": "General",
+      "read": true,
+      "starred": false,
+      "archived": false,
+      "deleted": false,
+      "createdAt": "2026-10-08T10:05:34.309Z"
+    },
+    {
+      "id": "1791453934309ykdj7ldaxp",
+      "senderName": "Aditi",
+      "senderEmail": "aditigaikwad1402@gmail.com",
+      "receiverEmail": "yoyo@gmail.com",
+      "subject": "wow",
+      "message": "hiiii",
+      "opportunityType": "General",
+      "read": true,
+      "starred": false,
+      "archived": false,
+      "deleted": false,
+      "createdAt": "2026-10-08T10:05:34.309Z"
+    },
+    {
+      "id": "1791454855174aydyz6zkrvj",
+      "senderName": "Aditi",
+      "senderEmail": "aditigaikwad@gmail.com",
+      "receiverEmail": "aditigaikwad1402@gmail.com",
+      "subject": "LAST CHANCES: SYRUS 7.0 Registrations Close Today! 🚨🌌",
+      "message": "Hey Innovators,\n\nThe countdown has begun! SYRUS 7.0 is LIVE with STAR WARS mode ON. ⚔️ The challenges are massive, the competition is fierce, and the galaxy is waiting for its next generation of innovators. This is your reminder to complete your registration, choose your mission, assemble your crew, and get ready to build.\n\n🌌 SYRUS 7.0 Key Details\n📅 Registrations & Problem Statement Preference: 5th–6th Oct 2026\n📡 Problem Statement Allocation & POC Submission: 6th–7th Oct 2026\n🏆 Shortlist Announcement: 7th Oct 2026\n💻 Online Development Phase: 8th Oct 2026\n⚔️ Offline Hackathon: 9th–10th Oct 2026\n📍 Venue: VESIT Library\n\n👥 Team Size: 2–4 members\n🎓 Eligibility: All VESIT students, across all branches and years\n🏆 Prizes: ₹1,50,000+ cash prizes, exclusive swags & internship opportunities\n\n🌌 EVENT DETAILS\n\n🗞️ Explore the Problem Statements: Click here [All PS have been updated in the docs].\n👥 Team Size: 2-4 Members\n\n✅ General Rulebook: Click here\n\n🛸 WHO CAN JOIN THE MISSION? Open for ALL VESIT students\n\n\n\n🔗 Blockchain & Quantum Computing: For participants interested in Blockchain under the FinTech track, a dedicated training session worth lacs in collaboration with LFDT will be conducted by EkamVistar on Wednesday, 7th October at 5:00 PM. Details and the meeting link will be shared via email shortly. The Quantum Computing training sessions are already underway as part of the Qiskit Fall Fest.\n\n\n📡 HOW TO JOIN?\n\nHow to register using Unstop: Click here\n\nParticipants Register on Website (via Unstop): Click here\n\nTeam leaders must fill the Extended Registration Form to complete their registration : Click here\n\n\n⚠️ BEFORE YOU ENTER THE GALAXY\n\n\nYour resume is not the sole criterion. Shortlisting will primarily focus on the Proof of Concept (POC) submitted by your team.\nPOC Template: The official POC submission template will be shared along with the Shortlisted Teams email. Please wait for the template before preparing your submission.\nComplete Registration: All participants must complete their Unstop registration.\nTeam Leader: Only the Team Leader needs to fill the Extended Google Form and join the designated WhatsApp Group through the form.\nProblem Statements: Read the Problem Statements carefully before submitting your preferences.\nLooking for your crew? Join the Find Teammates Group: Click here \nFor any queries, contact our command center:\n\nBhoomi Singh: 9975887988\n\nApurva Gokhale: 7039887509\n\nDon't miss out! May the Code be with you! 🌌⚔️\n\nRegards,\n\nCodeCell++ Tinker's from Computer Department VESIT\nStudent Head: Harshita Sewani (+91 70288 35980)\nDeputy Student Head: Gaurang Gade (+91 90042 06802)\n\nInstagram | Discord | Twitter | LinkedIn",
+      "opportunityType": "General",
+      "read": true,
+      "starred": false,
+      "archived": false,
+      "deleted": false,
+      "createdAt": "2026-10-08T10:20:55.174Z"
+    },
+    {
+      "id": "1791456844962oa2rxpnmabj",
+      "senderName": "Kushal",
+      "senderEmail": "kushalgaikwad024@gmail.com",
+      "receiverEmail": "aditigaikwad1402@gmail.com",
+      "subject": "hii didi",
+      "message": "how r u?",
+      "read": true,
+      "starred": false,
+      "archived": false,
+      "deleted": false,
+      "createdAt": "2026-10-08T10:54:04.962Z"
+    }
+  ]
+}
